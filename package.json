@@ -18,9 +18,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Selly-Project/chat-sdk/issues"
+    "url": "https://github.com/tai-selly/zchat-sdk/issues"
   },
-  "homepage": "https://github.com/Selly-Project/chat-sdk#readme",
+  "homepage": "https://github.com/tai-selly/zchat-sdk#readme",
   "devDependencies": {
     "typescript": "^4.8.3"
   }
